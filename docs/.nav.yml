@@ -6,7 +6,8 @@ nav:
       - microflu_sorting.md
       - microflu_cleaning.md
   - Plate Reader:
-      - plate.md
+      - plate_assay.md
+      - plate_mugb.md
   - Molecular Biology:
       - cloning.md
       - pretransformation_rca.md
