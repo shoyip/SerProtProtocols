@@ -1,27 +1,21 @@
 # Welcome to SerProt Protocols
 
+This website contains all the protocols for the Serine
+Protease Project.
+
 ## Protocols
 
-No protocols on the website now.
+## TODO
 
-## Test
+- [ ] Transformation Protocol
+- [ ] Microfabrication Protocol
+- [ ] Plate assay Protocol
+- [ ] Make SiH culture medium Protocol
+- [ ] Make substrate stock Protocol
+- [ ] Cloning Protocol
+- [ ] Make oil with surfactant stock Protocol
 
-## Second test
+## Contacts
 
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Shoichi Yip](https://shoyip.github.io) is taking care of
+this website.
