@@ -8,12 +8,14 @@ Protease Project.
 ## TODO
 
 - [ ] Transformation Protocol
-- [ ] Microfabrication Protocol
+- [x] Microfabrication Protocol
 - [ ] Plate assay Protocol
 - [ ] Make SiH culture medium Protocol
 - [x] Make substrate stock Protocol
 - [ ] Cloning Protocol
 - [ ] Make oil with surfactant stock Protocol
+- [x] Cleaning the Fluigent Flow Units
+- [ ] Silanization of a new epoxy mold
 
 ## Contacts
 
