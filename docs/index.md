@@ -11,7 +11,7 @@ Protease Project.
 - [ ] Microfabrication Protocol
 - [ ] Plate assay Protocol
 - [ ] Make SiH culture medium Protocol
-- [ ] Make substrate stock Protocol
+- [x] Make substrate stock Protocol
 - [ ] Cloning Protocol
 - [ ] Make oil with surfactant stock Protocol
 
