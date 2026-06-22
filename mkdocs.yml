@@ -13,7 +13,6 @@ markdown_extensions:
   - sane_lists
   - pymdownx.tasklist:
       custom_checkbox: true
-  - search
   - awesome-nav
 nav:
   - index.md
