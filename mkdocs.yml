@@ -1,0 +1,4 @@
+site_name: SerProt Protocols
+site_url: https://shoyip.github.io/SerProtProtocols/
+theme:
+  name: material
