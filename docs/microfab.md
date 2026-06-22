@@ -49,7 +49,8 @@ Time: 1h30 / 2h
 
 - PDMS chips
 - Cutter
-- Hole punching pens (0.75mm green pen and 0.15mm blue pen)
+- Hole punching pens (0.75mm [green pen](https://www.fishersci.com/shop/products/sampling-tool-0-75mm/NC1310091) and 0.50mm [blue pen](https://www.fishersci.com/shop/products/sampling-tool-0-5mm/NC1310089))
+- Cutting mat
 - 50mm x 75mm pre-cleaned Millipore [microscope glass
   slide](https://www.ugap.fr/laboratoire-1/consommables-scientifiques-gauss-32634/microbiologie-analyses-mesures-36275/lames-de-microscopie-36402/lame-de-microscope-x-72-p2661264)
 - Isopropanol, 70% ethanol, MilliQ water
@@ -68,11 +69,11 @@ Time: 1h30 / 2h
     aluminium foil and while removing the PDMS.
 
 2. Under the hood use the green (0.75mm, electrode holes)
-   and blue (0.15mm, fluid holes) pens in order to punch
+   and blue (0.50mm, fluid holes) pens in order to punch
    holes. On the encapsulation chip there are only fluid
    holes. On the sorting chip the central row of holes are
    electrode holes, and the rest is for fluids. Holes should
-   be punched vertically.
+   be punched vertically on a cutting mat.
 3. Wash glass slides and the marked side of the chips using
    in the order isopropanol, ethanol and water, then dry the
    surface using compressed air. Deposit at most two glass
