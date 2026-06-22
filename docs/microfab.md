@@ -8,7 +8,7 @@ Time: 1h30 / 2h
 
 ### Materials
 
-- Momentive RTV615 (PDMS base "A" and curing agent "B")
+- [Momentive RTV615](https://www.neyco.fr/nos-produits/silicones-2/microfluidique-pdms/rtv615/rtv-615) (PDMS base "A" and curing agent "B")
 - Disposable tray
 - Spatula
 - Weight scale
@@ -50,7 +50,8 @@ Time: 1h30 / 2h
 - PDMS chips
 - Cutter
 - Hole punching pens (0.75mm green pen and 0.15mm blue pen)
-- 50mm x 75mm pre-cleaned Millipore microscope glass slide
+- 50mm x 75mm pre-cleaned Millipore [microscope glass
+  slide](https://www.ugap.fr/laboratoire-1/consommables-scientifiques-gauss-32634/microbiologie-analyses-mesures-36275/lames-de-microscopie-36402/lame-de-microscope-x-72-p2661264)
 - Isopropanol, 70% ethanol, MilliQ water
 
 ### Procedure
@@ -118,5 +119,42 @@ Time: 1h30 / 2h
 
 ### Materials
 
+- PDMS chips
+- Tweezers
+- [Sigmacote](https://www.ugap.fr/laboratoire-1/reactifs-gauss-129625/anatomo-cytopathologie-immunohistologie-129661/autres-reactifs-129665/sigmacoter-siliconizing-reagent-for-25-ml-p3751707) siliconizing reagent
+- 1mL syringe
+- Tubing
+- [Indium solder wire](https://www.conro.com/solders-fluxes-and-preforms/solid-solder-wire/Indium-Solder-Wire-Indalloy-19-51In32-5Bi16-5Sn-Dia-0-020-Reel/)
+- Hot plate
+- Voltmeter
+
 ### Procedure
 
+1. Under the hood, insert the tubing in the needle with the
+   aid of a tweezer. Draw a small amount of siliconizing
+   reagent using the syringe, then insert the other side of
+   the tubing in the fluid holes and fill them with the
+   liquid until they come out from another hole. At this
+   point, aspirate back the liquid. Repeat for every hole of
+   the chip.
+2. Turn on the hot plate at 75°C. Leave the chips for 5-10
+   minutes on top of the plate. Then insert the solder wire
+   into the electrode hole with the aid of a tweezer: as
+   soon as it will reach the glass slide it will start to
+   melt. Check that the melted metal arrived at the second
+   electrode, and repeat for each other electrode hole. At
+   the end, install the electrodes by putting them in the
+   holes.
+
+!!! warning
+    The electrodes should be installed as soon as the
+    soldering is done. Installing electrodes when the
+    soldered parts are cold might lead to a non-functional
+    electrical circuit.
+
+3. Check that the electrodes are working correctly. After a
+   visual inspection, you can use the voltmeter by turning
+   its dial to the diode symbol. Two by two, touch one
+   electrode with one probe of the voltmeter and the other
+   with another probe. The voltemeter beeps if the soldered
+   circuit is connected.
