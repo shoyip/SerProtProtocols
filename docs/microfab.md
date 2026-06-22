@@ -127,6 +127,7 @@ Time: 1h30 / 2h
 - [Indium solder wire](https://www.conro.com/solders-fluxes-and-preforms/solid-solder-wire/Indium-Solder-Wire-Indalloy-19-51In32-5Bi16-5Sn-Dia-0-020-Reel/)
 - Hot plate
 - Voltmeter
+- Scotch tape
 
 ### Procedure
 
@@ -158,3 +159,4 @@ Time: 1h30 / 2h
    electrode with one probe of the voltmeter and the other
    with another probe. The voltemeter beeps if the soldered
    circuit is connected.
+4. Tape the circuits that have been tested and are ready to use.
