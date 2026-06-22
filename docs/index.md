@@ -5,7 +5,7 @@ Protease Project.
 
 ## Protocols
 
-## TODO
+## Todo
 
 - [ ] Transformation Protocol
 - [x] Microfabrication Protocol

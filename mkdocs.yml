@@ -2,6 +2,9 @@ site_name: SerProt Protocols
 site_url: https://shoyip.github.io/SerProtProtocols/
 theme:
   name: material
+plugins:
+  - awesome-nav
+  - optimize
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -13,20 +16,3 @@ markdown_extensions:
   - sane_lists
   - pymdownx.tasklist:
       custom_checkbox: true
-  - awesome-nav
-nav:
-  - index.md
-  - Microfluidics:
-      - microflu_microfab.md
-      - microflu_encapsulation.md
-      - microflu_sorting.md
-      - microflu_cleaning.md
-  - Plate Reader:
-      - plate.md
-  - Molecular Biology:
-      - cloning.md
-      - pretransformation_rca.md
-      - transformation_starvation.md
-  - Stocks of chemicals:
-      - stock_sih.md
-      - stock_substrate.md

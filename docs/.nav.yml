@@ -1,0 +1,16 @@
+nav:
+  - index.md
+  - Microfluidics:
+      - microflu_microfab.md
+      - microflu_encapsulation.md
+      - microflu_sorting.md
+      - microflu_cleaning.md
+  - Plate Reader:
+      - plate.md
+  - Molecular Biology:
+      - cloning.md
+      - pretransformation_rca.md
+      - transformation_starvation.md
+  - Stocks of chemicals:
+      - stock_sih.md
+      - stock_substrate.md
