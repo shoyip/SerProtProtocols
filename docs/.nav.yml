@@ -5,6 +5,7 @@ nav:
       - microflu_encapsulation.md
       - microflu_sorting.md
       - microflu_cleaning.md
+      - molds_silanize.md
   - Plate Reader:
       - plate_assay.md
       - plate_mugb.md
