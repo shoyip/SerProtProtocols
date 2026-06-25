@@ -20,7 +20,7 @@ Time: 1h30 / 2h
 
 ### Procedure
 
-1. Pour liquids "A" (15g) and "B" (135g) in a disposable
+1. Pour liquids "A" (135g) and "B" (15g) in a disposable
    tray on the weight scale and mix with the aid of a
    spatula for 1min. Pour the mix equally in four Falcon
    50mL tubes.
