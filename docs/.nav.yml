@@ -13,6 +13,7 @@ nav:
       - cloning.md
       - pretransformation_rca.md
       - transformation_starvation.md
+      - backbone_pht43e2.md
   - Stocks of chemicals:
       - stock_sih.md
       - stock_substrate.md
